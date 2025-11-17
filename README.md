@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<!DOCTYPE html>7
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Emergency App</title>
+  <title>Emergency Help</title>
   <style>
     body { font-family: Arial; text-align: center; padding: 40px; background: #f0f8ff; }
     input, button { margin: 10px; padding: 10px; font-size: 16px; width: 250px; }
@@ -13,7 +13,7 @@
   </style>
 </head>
 <body>
-  <h1>🚨 Emergency App</h1>
+  <h1>🚨 HelpMe SOS</h1>
 
   <div id="auth">
     <input type="text" id="name" placeholder="Your Name" /><br>
