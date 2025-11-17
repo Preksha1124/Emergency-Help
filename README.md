@@ -12,7 +12,7 @@
   </style>
 </head>
 <body>
-  <h1>🚨  SOS</h1>
+  <h1>🚨 HELP SOS</h1>
 
   <div id="auth">
     <input type="text" id="name" placeholder="Your Name" /><br>
