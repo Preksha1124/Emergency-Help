@@ -1,9 +1,10 @@
+...........
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Emergency Help</title>
+  <title> Emergency Help </title>
   <style>
     body { font-family: Arial; text-align: center; padding: 40px; background: #f0f8ff; }
     input, button { margin: 10px; padding: 10px; font-size: 16px; width: 250px; }
